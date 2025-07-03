@@ -1,0 +1,1 @@
+FOM based on Equation 41 in Section 4.1 from "Operator inference for non-intrusive model reduction with quadratic manifolds" by Geelen, et al.

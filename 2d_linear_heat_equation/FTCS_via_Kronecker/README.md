@@ -1,0 +1,1 @@
+Textbook example of linear heat equation on rectangular grid with centered Gaussian pulse as the initial temperature scalar field and Dirichlet boundary conditions fixing the boundary temperatures to 0.
